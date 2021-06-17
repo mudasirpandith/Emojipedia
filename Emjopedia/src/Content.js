@@ -75,7 +75,12 @@ const contents=[
     emoji:" ❤️ ",
     name:"Red Heart  ",
     detail:" A classic red love heart emoji, used for expressions of love and romance. This is the most popular heart emoji A similar emoji exists for the heart suit in a deck of playing cards. "
-  }
+  },{
+    
+   id:"14",
+    emoji:"❤️‍🔥",
+    detail:"A heart shown on fire, for extreme or passionate forms of love or lust. Most representative of desire or lust, this emoji may also indicate a sense of burning a past love and moving on."
+    }
   
   ]
   export default contents;
