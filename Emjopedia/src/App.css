@@ -1,0 +1,41 @@
+.header{
+  background-color: #39A6A3;
+  color: white;
+  text-align: center;
+  padding: 3%;
+ font-size: 30px; 
+}
+.entry {
+  font-family: 'Oswald', sans-serif;
+   display: inline-block;
+  width: 80%;
+  text-align: center;
+  background-color: white;
+  border: white 2px solid;
+  box-shadow: 15px 15px white;
+  border-radius: 4px;
+  margin: 4%;
+  padding:4%;
+ 
+}
+.entry:hover{
+  background-color: #E8E46E;
+  border: yellow;
+  box-shadow:  12px 12px green;
+  color: green;
+}
+body{
+  background-color: silver;
+}
+.emoji{
+  padding: 0px;
+  margin: 0px;
+  font-size: 50px;
+}
+ 
+  
+.Footer-copyright {
+  text-align:center;
+   color: white;
+   padding: 3%;
+}
