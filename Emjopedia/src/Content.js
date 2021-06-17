@@ -79,8 +79,20 @@ const contents=[
     
    id:"14",
     emoji:"❤️‍🔥",
+name:" Heart on fire",
     detail:"A heart shown on fire, for extreme or passionate forms of love or lust. Most representative of desire or lust, this emoji may also indicate a sense of burning a past love and moving on."
-    }
+    },{
+id:"15",
+emoji:"😂 ",
+name:" Face with Tears of Joy",
+detail:"A yellow face with a big grin, uplifted eyebrows, and smiling eyes, each shedding a tear from laughing so hard. Widely used to show something is funny or pleasing  "
+},
+{
+id:"16",
+emoji:"🤟 ",
+name:" Love-You Gesture",
+detail:" The gesture for “I love you” in American Sign Language, shown as a raised pinky (little) finger, index finger, and an extended thumb.  "
+}
   
   ]
   export default contents;
